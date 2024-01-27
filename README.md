@@ -1,0 +1,2 @@
+# Multiple-Linear-Regression-and-Multi-collinearity
+This repository contains code for implementing a Multiple Linear Regression model using the Iris Dataset. The dependent feature in focus is the Petal Width, while the independent features include Sepal Length and Petal Length. The code demonstrates the identification of confounding variables and addresses multi-collinearity to streamline the model.
