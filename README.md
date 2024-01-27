@@ -24,7 +24,7 @@ pip install numpy pandas pymc3 arviz matplotlib
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Moeez-Muslim/Multiple-Linear-Regression-and-Multi-collinearity.git](https://github.com/Moeez-Muslim/Multiple-Linear-Regression-and-Multi-collinearity.git)
+   git clone https://github.com/Moeez-Muslim/Multiple-Linear-Regression-and-Multi-collinearity.git
    cd Multiple-Linear-Regression-and-Multi-collinearity
    ```
 
